@@ -1,0 +1,13 @@
+{"properties": [{
+  "name": "get_pose_list_api",
+  "type": "java.lang.String",
+  "description": "A description for 'get_pose_list_api'"
+}]}{"properties": [{
+  "name": "genai_api",
+  "type": "java.lang.String",
+  "description": "A description for 'genai_api'"
+}]}{"properties": [{
+  "name": "token",
+  "type": "java.lang.String",
+  "description": "A description for 'token'"
+}]}
